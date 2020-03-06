@@ -28,4 +28,4 @@ end
 
 [Open Google](https://google.com)
 
-![Random Kitten](https://placekitten.com/200/300)
+![Random Kitten](http://placekitten.com/200/300)
